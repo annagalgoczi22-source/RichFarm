@@ -25,7 +25,13 @@ biton scan
 testnet-rpc.bitonscan.com
 
 RF Token:0x54FDd000BFb17E9c375110C8AC6C7ebb96361b3c
-USDT TOKEN:0x3C28F7B7C928DB363C4dAf5fF04b2128C552Bbe6
+USDT TOKEN:0x768a72ed9e28307601255B3d556A6F67CE2d4df1
 <https://testnet.bitonscan.com>
-链id：32683268
+链id：178001
 货币符号：WIN
+
+主链：
+swap地址：swap.winchain.win
+<https://winchain.win/>
+32683268
+rpc.winchain.win
